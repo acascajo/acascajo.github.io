@@ -12,19 +12,31 @@ Initially, my research was focused on the development of railway construction si
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Post-Doctoral Researcher, University Carlos III of Madrid
+*Feb 2022 - Present*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+- Computational epidemiology 
+- High-Performance Computing
+- Dynamic Resource Management features on HPC platforms
+- Monitoring large-scale platform
+- Developing railway simulators in cooperation with a specialized company
+- Edge computing
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Associate Professor, University Carlos III of Madrid
+*July 2016 - present*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Computer Architecture: The main objective of this course is to know the basic concepts about the architecture of a computer and its impact on the performance of applications and computer systems. In its practical part, this knowledge should be applied using lock-free programming (lower-level parallelism). The language used is C/C ++.
+
+- Operating Systems: The main objective of this subject is to know the function of the operating system as an extended machine, the services it oﬀers to the rest of the system, and its main components and entities (processes, memory, files, etc.), the concepts of concurrency, and the relationships of the operating system with the rest of the computer software and hardware. We focus on understanding the functionality that the operating system includes and that the applications can use. In addition, we teach how task schedulers work, how programs interact and communicate with each other, and how the application threads work in concurrent programming. The language used is C.
+
+- Computer Structure: The main objective of this subject is to understand basic concepts about the organization and structure of a computer, such as data representation, basic arithmetic, execution of instructions, assembly programming, main memory, cache and virtual memory, and I/O systems. The practical environment in this subject includes the RISC-V architecture for assembly programming and microprogramming (implementing the micro-code of the instructions).
+
+### Software developer, University Carlos III of Madrid
+*May 2013 - Aug 2017*
+
+- Software developer in diﬀerent languages for different applications (C/C++, C#, Python, Shelscripts).
+- Development and maintenance of simulation software for companies (C#).
+
 
 ## Education
 
