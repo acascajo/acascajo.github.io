@@ -34,6 +34,7 @@ def pre_render():
                         {
                             "text": secondary_email,
                             "href": f"mailto:{secondary_email}"
+                        },
                     ]
                 }
             },
