@@ -1,26 +1,29 @@
 ---
-title: "Alberto Cascajo's CV"
+title: "Albert Einstein's CV"
 author:
-  firstname: Alberto
-  lastname: Cascajo
-  address: "Madrid, Spain"
-  position: "Postdoctoral researcher ・ Professor"
+  firstname: Albert
+  lastname: Einstein
+  address: "Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"
+  position: "Research Physicist ・ Professor"
   contacts:
     - icon: fa envelope
-      text: acascajo@inf.uc3m.com
-      url: "mailto:acascajo@inf.uc3m.com"
+      text: ae@example.com
+      url: "mailto:ae@example.com"
     - icon: assets/icon/bi-house-fill.svg
-      text: acascajo.github.io
-      url: https://acascajo.github.io
+      text: example.com
+      url: https://example.com
     - icon: fa brands orcid
-      text: 0000-0001-5506-1431
-      url: https://orcid.org/0000-0001-5506-1431
+      text: 0000-0000-0000-0000
+      url: https://orcid.org/0000-0000-0000-0000
     - icon: fa brands github
       text: GitHub
-      url: https://github.com/acascajo
+      url: https://github.com/example
     - icon: fa brands linkedin
       text: LinkedIn
-      url: https://www.linkedin.com/in/albertocascajosofteng/
+      url: https://linkedin.com/in/example
+    - icon: fa brands x-twitter
+      text: twitter
+      url: https://twitter.com/example
 format: awesomecv-typst
 brand:
   typography: 
