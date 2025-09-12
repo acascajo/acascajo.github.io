@@ -61,22 +61,6 @@ Thesis title (es): Optimización de aplicaciones de cálculo estructural y gener
 Thesis title (en): Optimization of structural calculation applications and automatic report generation.
 
 
-## Skills
-
-- Data Analysis: C/C++, Python, SQL, scripting
-- Visualization Tools: Grafana, Kibana
-- Machine Learning: Scikit-learn, TensorFlow
-- AI: neural networks
-- High-Performance Computing: remote work in clusters, cluster configuration and maintenance
-
-## Certifications
-
-- Mobile application developement (40h) Certificate - 2017
-- Personal productivity course in the Digital Era - 2017
-- Cloud computing course (40h) - 2017
-- Improving your English-Speaking Skills (B2/C1) Certificate - 2021
-
-
 ## Projects
 
 ### MADE: Multiple Access to eDElivery
@@ -137,8 +121,8 @@ Participation: Member of the working group
 *Dec 2021 - Jan 2022*
 Participation: Member of the working group
 
-•	European Covid-19 Forecast Hub. Duración: del 1/12/2021 a la actualidad.
-•	European Covid-19 Scenario Hub. Duración: del 1/1/2022 a la actualidad.
+- European Covid-19 Forecast Hub. Duración: del 1/12/2021 a la actualidad.
+- European Covid-19 Scenario Hub. Duración: del 1/1/2022 a la actualidad.
 
 ### Nuevas técnicas escalables de E/S para cargas de trabajo híbridas de HPC e intensivas en datos. 
 *Sep 2023 - Aug 2026*
@@ -154,6 +138,21 @@ Participation: IP - Main researcher
 - Spanish: Native
 - German: Beginner
 
+## Skills
+
+- Data Analysis: C/C++, Python, SQL, scripting
+- Visualization Tools: Grafana, Kibana
+- Machine Learning: Scikit-learn, TensorFlow
+- AI: neural networks
+- High-Performance Computing: remote work in clusters, cluster configuration and maintenance
+
+## Certifications
+
+- Mobile application developement (40h) Certificate - 2017
+- Personal productivity course in the Digital Era - 2017
+- Cloud computing course (40h) - 2017
+- Improving your English-Speaking Skills (B2/C1) Certificate - 2021
+  
 ## Interests
 
 - Technology
