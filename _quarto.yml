@@ -18,9 +18,10 @@ website:
 format-links: false
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
+    theme: flatly
+    #theme:
+    #  light: cosmo
+    #  dark: darkly
     css: styles.css
     link-external-newwindow: true
     canonical-url: true
