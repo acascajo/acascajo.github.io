@@ -1,3 +1,3 @@
-![CV_Resume - Alberto Cascajo](RESUME.md)
+![CV_Resume - Jane Doe](image.png)
 
 
