@@ -144,6 +144,9 @@ Participation: Member of the working group
 *Sep 2023 - Aug 2026*
 Participation: Member of the working group
 
+### Monitorización y Evaluación en Tiempo Real de Infraestructuras Cloud y HPC mediante IA - METRIC-AI
+*Jan 2025 - Dec 2025*
+Participation: IP - Main researcher
 
 ## Languages
 
