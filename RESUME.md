@@ -79,11 +79,127 @@ Thesis title (en): Optimization of structural calculation applications and autom
 
 ## Projects
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
+### MADE: Multiple Access to eDElivery
+Participación: Miembro del equipo de trabajo
+Investigador principal: Jesús Carretero Pérez
+Referencia: 2016-EU-IA-0063 
+Periodo: 01/01/2017 - 31/12/2018 (24 meses)
+Entidad financiadora: EUROPEAN COMMISSION
+Presupuesto: 75.000,00 €
+Convocatoria: Competitiva
 
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+
+Proyecto: eID@Cloud: Integrating de eIdentification in European cloud Platform according to the EIDAs Regulation
+Participación: Miembro del equipo de trabajo
+Investigador principal: Jesús Carretero Pérez
+Referencia: 2016-EU-IA-0064 
+Periodo: 01/05/2017 - 30/09/2018 (17 meses)
+Entidad financiadora: EUROPEAN COMMISSION
+Presupuesto: 143.339,21€
+
+
+Proyecto: ADMIRE: Adaptive multi-tier intelligent data manager for Exascale
+Participación: Miembro del equipo de trabajo
+Investigador principal: Jesús Carretero Pérez
+Referencia: 956748
+Periodo: 01/04/2021 - 31/03/2024 (45 meses)
+Entidad financiadora: EUROPEAN COMMISION 
+Presupuesto: 383.937,5 €
+
+
+Proyecto: Servicio para el desarrollo de una herramienta de predicción de escenarios epidemiológicos y de vacunación frente a COVID-19
+Participación: Miembro del equipo de trabajo
+Investigador principal: David Expósito Singh
+Referencia: TIN2012-32782
+Periodo: 27/08/2021 - 27/11/2021 (3 meses)
+Entidad financiadora: D.G. de Salud Pública, Calidad e Innovación S.G. de Promoción de la Salud y Prevención
+Presupuesto: 14.999,17 €
+
+
+Proyecto: eID4Spain: Connecting Regional and Local Administrations to Spanish eIDAS Node
+Participación: Becario de colaboración
+Investigador principal: Jesús Carretero Pérez
+Referencia: 2018-ES-IA-0039
+Periodo: 01/09/2018 - 28/02/2020 (17 meses)
+Entidad financiadora: EUROPEAN COMMISSION
+Presupuesto: 24.476,25 €
+
+
+Proyecto: SIRTE: Simulación de la Interacción y Replanteo de Trazados Electrificados y Pórticos y Agujas.
+Participación: becario de colaboración
+Investigador principal: Jesús Carretero Pérez
+Periodo: 01/02/2010 – 31/12/2013 (mantenimiento hasta 2019)
+Entidad financiadora: Administrador de Infraestructuras Ferroviarias (ADIF)
+Tipo de proyecto: Contrato de I+D
+
+
+Proyecto: Estudio y realización de programas de cálculo de pórticos rígidos de catenaria (CALPOR) y de Sistemas de simulación de montaje de agujas aéreas de línea aérea de contacto (SIA)
+Participación: Becario de colaboración
+Periodo: 07/02/2007 – 31/01/2011 (mantenimiento hasta 2019)
+Referencia: JM/RS 3.6/4100.0685-9/00100
+Entidad financiadora: Administrador de Infraestructuras Ferroviarias (ADIF)
+Tipo de proyecto: Contrato de I+D
+
+
+Proyecto: Mantenimiento del programa: Sistema de análisis y cálculo de suministro de energía
+Participación: becario de colaboración
+Investigador principal: Félix García Carballeira
+Periodo: 19/04/2021 – 31/12/2021 (9 meses)
+Referencia: Contrato Menor Expet. 2.21/28520.5003/01
+Entidad financiadora: Administrador de Infraestructuras Ferroviarias (ADIF)
+Tipo de proyecto: Contrato de I+D
+
+
+Proyecto: Nuevos métodos en High-end y Edge Computing para la computación intensiva en datos
+Participación: Miembro del equipo de trabajo
+Investigador principal: Jesús Carretero Pérez y Félix García Carballeira
+Periodo: 01/06/2020 – 29/02/2024 (45 meses)
+Referencia: PID2019-107858GB-I00
+Entidad financiadora: Ministerio de Ciencia e innovación – Agencia Estatal de Investigación (AEI)
+
+
+Proyecto: Hacia la unificación de paradigmas HPC y Big Data
+Participación: Miembro del equipo de trabajo
+Investigador principal: Jesús Carretero Pérez y Félix García Carballeira
+Periodo: 30/12/2016 – 29/05/2020 (41 meses)
+Referencia: TIN2016-79637-P
+Entidad financiadora: Ministerio de Economía y Competitividad - Ministerio de Asuntos Económicos y Transformación Digital
+
+
+Proyectos de la Red Española de Supercomputación (RES):
+•	BCV-2021-2-0011 - Evaluation of COVID19 mitigation and vaccination strategies. Duración: del 1/7/2021 al 31/10/2021
+•	BCV-2021-3-0007 - Evaluation of COVID19 mitigation and vaccination strategies. Duración: del 1/11/2021 al 28/2/2022
+•	BCV-2022-1-0005 - Analysis tool for COVID-19 vaccination scenarios. Duración: del 1/3/2022 al 30/6/2022
+•	BCV-2022-1-0004 - Multi-source and multi-method prediction to support COVID-19 policy decision making. Duración: del 1/3/2022 al 30/6/2022
+•	BCV-2022-2-0010 - Analysis tool for COVID-19 vaccination scenarios. Duración: del 1/7/2022 al 31/10/2022
+•	BCV-2022-3-0004 - Modelling COVID-19 propagation scenarios for health authority decision making. Duración: del 1/11/2022 al 28/2/2023
+•	BCV-2023-1-0005 - Modelling COVID-19 propagation scenarios for health authority decision making. Duración: del 1/3/2023 al 30/6/2023
+•	BCV-2023-2-0012 - Fine-grained COVID-19 forecasting.  Duración: del 1/7/2023 al 31/10/2023
+•	BCV-2023-3-0004 Fine-grained COVID-19 forecasting. Duración: del 1/11/2023 al actualidad.
+
+Participación: Miembro del equipo de trabajo
+Objetivos: Participación en grupos de trabajo para el soporte a la toma de decisiones del Ministerio de Sanidad del Gobierno de España.
+
+
+Elaboración de informes técnicos – European Centre for Disease Prevention and Control (ECDC)
+
+•	European Covid-19 Forecast Hub. Duración: del 1/12/2021 a la actualidad.
+•	European Covid-19 Scenario Hub. Duración: del 1/1/2022 a la actualidad.
+
+Participación: Miembro del equipo de trabajo
+Objetivos: Participación en grupos de trabajo para el soporte a la toma de decisiones de la Unión Europea a través del ECDC. Colaboración en la elaboración de predicciones semanales de incidencia de la COVID-19 para la Unión Europea. Participación en las seis rondas (ROUND 0 al 5) de simulación definidas por el ECDC.
+Enlace de consulta de los equipos: European COVID19 Scenario Hub
+
+
+Proyecto: Nuevas técnicas escalables de E/S para cargas de trabajo híbridas de HPC e intensivas en datos. 
+Participación: Miembro del equipo de trabajo
+Investigador principal: Félix García Carballeira
+Periodo: 01/09/2023 – 31/08/2026 (36 meses)
+Referencia: PID2022-138050NB-I00
+Entidad financiadora: Agencia Estatal de Investigación (AEI)
+
+
+
 
 ## Languages
 
