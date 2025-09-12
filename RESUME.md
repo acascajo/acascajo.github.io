@@ -1,12 +1,12 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+# Alberto Cascajo
+Doctor of Computer Science and Technology
+| [acascajo@inf.uc3m.es](mailto:acascajo@inf.uc3m.es)
+| [+34 916246260](tel:+34916246260)
+| [LinkedIn.com](https://www.linkedin.com/in/albertocascajosofteng/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+received the PhD degree in Computer Science and Technology at the Carlos III University of Madrid in 2021. He completed a Bachelor's Degree in Computer Science and a Master's Degree in Computer Science and Technology at the same university, being part of the ARCOS research group since 2013. Initially, his research was focused on the development of railway construction simulators. Since 2017, his research interest includes High-Performance Computing (HPC), code optimization, monitoring and scheduling at a node and application levels. He has authored eight papers published in scientific journals, and more than twenty in national and international conferences. He has also participated in twenty different researching projects (including national and international) and has been IP in one internal researching project at UC3M.
+
 
 ## Work Experience
 
