@@ -1,3 +1,6 @@
-readme.md
-LICENSE
-CNAME
+_quarto.yml
+docs/
+*.Rproj
+renv.lock
+renv/
+assets/img/
