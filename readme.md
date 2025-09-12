@@ -1,3 +1,1 @@
-![CV_Resume - Jane Doe](image.png)
-
-
+Alberto's web page with a summarized CV.  
