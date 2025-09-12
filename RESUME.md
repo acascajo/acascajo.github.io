@@ -109,68 +109,40 @@ Participation: Internship
 
 ### Mantenimiento del programa: Sistema de análisis y cálculo de suministro de energía
 *Apr 2021 - Dec 2021*
-Participation: Internship
+Participation: Member of the working group
 
+### Nuevos métodos en High-end y Edge Computing para la computación intensiva en datos
+*Jun 2020 - Feb 2024*
+Participation: Member of the working group
 
+### Hacia la unificación de paradigmas HPC y Big Data
+*Dec 2016 - May 2020*
+Participation: Member of the working group
 
-Proyecto: Mantenimiento del programa: Sistema de análisis y cálculo de suministro de energía
-Participación: becario de colaboración
-Investigador principal: Félix García Carballeira
-Periodo: 19/04/2021 – 31/12/2021 (9 meses)
-Referencia: Contrato Menor Expet. 2.21/28520.5003/01
-Entidad financiadora: Administrador de Infraestructuras Ferroviarias (ADIF)
-Tipo de proyecto: Contrato de I+D
+### Projects of the Spanish Supercomputing Network (Red Española de Supercomputación - RES)
+*Jul 2021 - Nov 2023*
+Participation: Member of the working group
 
+- BCV-2021-2-0011 - Evaluation of COVID19 mitigation and vaccination strategies.
+- BCV-2021-3-0007 - Evaluation of COVID19 mitigation and vaccination strategies.
+- BCV-2022-1-0005 - Analysis tool for COVID-19 vaccination scenarios.
+- BCV-2022-1-0004 - Multi-source and multi-method prediction to support COVID-19 policy decision making.
+- BCV-2022-2-0010 - Analysis tool for COVID-19 vaccination scenarios. 
+- BCV-2022-3-0004 - Modelling COVID-19 propagation scenarios for health authority decision making.
+- BCV-2023-1-0005 - Modelling COVID-19 propagation scenarios for health authority decision making.
+- BCV-2023-2-0012 - Fine-grained COVID-19 forecasting.
+- BCV-2023-3-0004 Fine-grained COVID-19 forecasting.
 
-Proyecto: Nuevos métodos en High-end y Edge Computing para la computación intensiva en datos
-Participación: Miembro del equipo de trabajo
-Investigador principal: Jesús Carretero Pérez y Félix García Carballeira
-Periodo: 01/06/2020 – 29/02/2024 (45 meses)
-Referencia: PID2019-107858GB-I00
-Entidad financiadora: Ministerio de Ciencia e innovación – Agencia Estatal de Investigación (AEI)
-
-
-Proyecto: Hacia la unificación de paradigmas HPC y Big Data
-Participación: Miembro del equipo de trabajo
-Investigador principal: Jesús Carretero Pérez y Félix García Carballeira
-Periodo: 30/12/2016 – 29/05/2020 (41 meses)
-Referencia: TIN2016-79637-P
-Entidad financiadora: Ministerio de Economía y Competitividad - Ministerio de Asuntos Económicos y Transformación Digital
-
-
-Proyectos de la Red Española de Supercomputación (RES):
-•	BCV-2021-2-0011 - Evaluation of COVID19 mitigation and vaccination strategies. Duración: del 1/7/2021 al 31/10/2021
-•	BCV-2021-3-0007 - Evaluation of COVID19 mitigation and vaccination strategies. Duración: del 1/11/2021 al 28/2/2022
-•	BCV-2022-1-0005 - Analysis tool for COVID-19 vaccination scenarios. Duración: del 1/3/2022 al 30/6/2022
-•	BCV-2022-1-0004 - Multi-source and multi-method prediction to support COVID-19 policy decision making. Duración: del 1/3/2022 al 30/6/2022
-•	BCV-2022-2-0010 - Analysis tool for COVID-19 vaccination scenarios. Duración: del 1/7/2022 al 31/10/2022
-•	BCV-2022-3-0004 - Modelling COVID-19 propagation scenarios for health authority decision making. Duración: del 1/11/2022 al 28/2/2023
-•	BCV-2023-1-0005 - Modelling COVID-19 propagation scenarios for health authority decision making. Duración: del 1/3/2023 al 30/6/2023
-•	BCV-2023-2-0012 - Fine-grained COVID-19 forecasting.  Duración: del 1/7/2023 al 31/10/2023
-•	BCV-2023-3-0004 Fine-grained COVID-19 forecasting. Duración: del 1/11/2023 al actualidad.
-
-Participación: Miembro del equipo de trabajo
-Objetivos: Participación en grupos de trabajo para el soporte a la toma de decisiones del Ministerio de Sanidad del Gobierno de España.
-
-
-Elaboración de informes técnicos – European Centre for Disease Prevention and Control (ECDC)
+### Technical Reports elaboration – European Centre for Disease Prevention and Control (ECDC)
+*Dec 2021 - Jan 2022*
+Participation: Member of the working group
 
 •	European Covid-19 Forecast Hub. Duración: del 1/12/2021 a la actualidad.
 •	European Covid-19 Scenario Hub. Duración: del 1/1/2022 a la actualidad.
 
-Participación: Miembro del equipo de trabajo
-Objetivos: Participación en grupos de trabajo para el soporte a la toma de decisiones de la Unión Europea a través del ECDC. Colaboración en la elaboración de predicciones semanales de incidencia de la COVID-19 para la Unión Europea. Participación en las seis rondas (ROUND 0 al 5) de simulación definidas por el ECDC.
-Enlace de consulta de los equipos: European COVID19 Scenario Hub
-
-
-Proyecto: Nuevas técnicas escalables de E/S para cargas de trabajo híbridas de HPC e intensivas en datos. 
-Participación: Miembro del equipo de trabajo
-Investigador principal: Félix García Carballeira
-Periodo: 01/09/2023 – 31/08/2026 (36 meses)
-Referencia: PID2022-138050NB-I00
-Entidad financiadora: Agencia Estatal de Investigación (AEI)
-
-
+### Nuevas técnicas escalables de E/S para cargas de trabajo híbridas de HPC e intensivas en datos. 
+*Sep 2023 - Aug 2026*
+Participation: Member of the working group
 
 
 ## Languages
