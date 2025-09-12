@@ -80,49 +80,25 @@ Thesis title (en): Optimization of structural calculation applications and autom
 ## Projects
 
 ### MADE: Multiple Access to eDElivery
-Participación: Miembro del equipo de trabajo
-Investigador principal: Jesús Carretero Pérez
-Referencia: 2016-EU-IA-0063 
-Periodo: 01/01/2017 - 31/12/2018 (24 meses)
-Entidad financiadora: EUROPEAN COMMISSION
-Presupuesto: 75.000,00 €
-Convocatoria: Competitiva
+*Jan 2017 - Dec 2018*
+Participation: Member of the working group
 
+### eID@Cloud: Integrating de eIdentification in European cloud Platform according to the EIDAs Regulation
+*May 2017 - Sep 2018*
+Participation: Member of the working group
 
-Proyecto: eID@Cloud: Integrating de eIdentification in European cloud Platform according to the EIDAs Regulation
-Participación: Miembro del equipo de trabajo
-Investigador principal: Jesús Carretero Pérez
-Referencia: 2016-EU-IA-0064 
-Periodo: 01/05/2017 - 30/09/2018 (17 meses)
-Entidad financiadora: EUROPEAN COMMISSION
-Presupuesto: 143.339,21€
+### ADMIRE: Adaptive multi-tier intelligent data manager for Exascale
+*Apr 2021 - Mar 2024*
+Participation: Member of the working group
 
+### Servicio para el desarrollo de una herramienta de predicción de escenarios epidemiológicos y de vacunación frente a COVID-19
+*Aug 2021 - Nov 2021*
+Participation: Member of the working group
 
-Proyecto: ADMIRE: Adaptive multi-tier intelligent data manager for Exascale
-Participación: Miembro del equipo de trabajo
-Investigador principal: Jesús Carretero Pérez
-Referencia: 956748
-Periodo: 01/04/2021 - 31/03/2024 (45 meses)
-Entidad financiadora: EUROPEAN COMMISION 
-Presupuesto: 383.937,5 €
+### eID4Spain: Connecting Regional and Local Administrations to Spanish eIDAS Node
+*Sep 2018 - Feb 2020*
+Participation: Member of the working group
 
-
-Proyecto: Servicio para el desarrollo de una herramienta de predicción de escenarios epidemiológicos y de vacunación frente a COVID-19
-Participación: Miembro del equipo de trabajo
-Investigador principal: David Expósito Singh
-Referencia: TIN2012-32782
-Periodo: 27/08/2021 - 27/11/2021 (3 meses)
-Entidad financiadora: D.G. de Salud Pública, Calidad e Innovación S.G. de Promoción de la Salud y Prevención
-Presupuesto: 14.999,17 €
-
-
-Proyecto: eID4Spain: Connecting Regional and Local Administrations to Spanish eIDAS Node
-Participación: Becario de colaboración
-Investigador principal: Jesús Carretero Pérez
-Referencia: 2018-ES-IA-0039
-Periodo: 01/09/2018 - 28/02/2020 (17 meses)
-Entidad financiadora: EUROPEAN COMMISSION
-Presupuesto: 24.476,25 €
 
 
 Proyecto: SIRTE: Simulación de la Interacción y Replanteo de Trazados Electrificados y Pórticos y Agujas.
