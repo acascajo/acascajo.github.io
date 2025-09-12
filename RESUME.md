@@ -99,22 +99,18 @@ Participation: Member of the working group
 *Sep 2018 - Feb 2020*
 Participation: Member of the working group
 
+### SIRTE: Simulación de la Interacción y Replanteo de Trazados Electrificados y Pórticos y Agujas
+*Feb 2010 - Dec 2013*
+Participation: Internship
 
+### Estudio y realización de programas de cálculo de pórticos rígidos de catenaria (CALPOR) y de Sistemas de simulación de montaje de agujas aéreas de línea aérea de contacto (SIA)
+*Feb 2007 - Jan 2011*
+Participation: Internship
 
-Proyecto: SIRTE: Simulación de la Interacción y Replanteo de Trazados Electrificados y Pórticos y Agujas.
-Participación: becario de colaboración
-Investigador principal: Jesús Carretero Pérez
-Periodo: 01/02/2010 – 31/12/2013 (mantenimiento hasta 2019)
-Entidad financiadora: Administrador de Infraestructuras Ferroviarias (ADIF)
-Tipo de proyecto: Contrato de I+D
+### Mantenimiento del programa: Sistema de análisis y cálculo de suministro de energía
+*Apr 2021 - Dec 2021*
+Participation: Internship
 
-
-Proyecto: Estudio y realización de programas de cálculo de pórticos rígidos de catenaria (CALPOR) y de Sistemas de simulación de montaje de agujas aéreas de línea aérea de contacto (SIA)
-Participación: Becario de colaboración
-Periodo: 07/02/2007 – 31/01/2011 (mantenimiento hasta 2019)
-Referencia: JM/RS 3.6/4100.0685-9/00100
-Entidad financiadora: Administrador de Infraestructuras Ferroviarias (ADIF)
-Tipo de proyecto: Contrato de I+D
 
 
 Proyecto: Mantenimiento del programa: Sistema de análisis y cálculo de suministro de energía
