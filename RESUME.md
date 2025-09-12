@@ -5,7 +5,9 @@ Doctor of Computer Science and Technology
 | [LinkedIn.com](https://www.linkedin.com/in/albertocascajosofteng/)
 
 ## About me
-received the PhD degree in Computer Science and Technology at the Carlos III University of Madrid in 2021. He completed a Bachelor's Degree in Computer Science and a Master's Degree in Computer Science and Technology at the same university, being part of the ARCOS research group since 2013. Initially, his research was focused on the development of railway construction simulators. Since 2017, his research interest includes High-Performance Computing (HPC), code optimization, monitoring and scheduling at a node and application levels. He has authored eight papers published in scientific journals, and more than twenty in national and international conferences. He has also participated in twenty different researching projects (including national and international) and has been IP in one internal researching project at UC3M.
+I received the PhD degree in Computer Science and Technology at the Carlos III University of Madrid in 2021. He completed a Bachelor's Degree in Computer Science and a Master's Degree in Computer Science and Technology at the same university, being part of the ARCOS research group since 2013. 
+
+Initially, my research was focused on the development of railway construction simulators. Since 2017, this research interest includes High Performance Computing (HPC), Quantum Computing (QC), Hybrid HPC-QC, code optimization, monitoring and scheduling at a node and application levels. I am the author of eight papers published in scientific journals, and more than twenty in national and international conferences. I have also participated in twenty different researching projects (including national and international) and have been IP in one internal researching project at UC3M.
 
 
 ## Work Experience
