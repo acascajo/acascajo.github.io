@@ -18,10 +18,7 @@ website:
 format-links: false
 format:
   html:
-    theme: flatly
-    #theme:
-    #  light: cosmo
-    #  dark: darkly
+    theme: minty
     css: styles.css
     link-external-newwindow: true
     canonical-url: true
