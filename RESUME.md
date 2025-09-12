@@ -40,21 +40,42 @@ Initially, my research was focused on the development of railway construction si
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Doctorate in Computer Science and Technology 
+*University Carlos III of Madrid*  
+*Dec 2021 - Cum Laude*
+
+Thesis title: New cross-layer techniques for multi-criteria scheduling in large-scale systems
+
+### Master in Computer Science and Technology
+*University Carlos III of Madrid*  
+*Sep 2017 - Excellent*
+
+Thesis title (es): Optimización de herramientas de simulación científica: HidroGeoSphere.
+Thesis title (en): Optimization of scientific simulation tools: HidroGeoSphere.
+
+### Bachelor degree in Computer Science
+*University Carlos III of Madrid*  
+*Sep 2016 - 8/10*
+
+Thesis title (es): Optimización de aplicaciones de cálculo estructural y generación automática de informes.
+Thesis title (en): Optimization of structural calculation applications and automatic report generation.
+
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
+- Data Analysis: C/C++, Python, SQL, scripting
+- Visualization Tools: Grafana, Kibana
 - Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+- AI: neural networks
+- High-Performance Computing: remote work in clusters, cluster configuration and maintenance
 
 ## Certifications
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+- Mobile application developement (40h) Certificate - 2017
+- Personal productivity course in the Digital Era - 2017
+- Cloud computing course (40h) - 2017
+- Improving your English-Speaking Skills (B2/C1) Certificate - 2021
+
 
 ## Projects
 
@@ -67,10 +88,12 @@ Conducted customer segmentation analysis using clustering techniques to enhance 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
+- Spanish: Native
+- German: Beginner
 
 ## Interests
 
-- Hiking
 - Technology
+- Sports (soccer, tennis, padel)
+- Cars and motorbikes
 - Photography
