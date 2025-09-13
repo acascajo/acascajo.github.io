@@ -7,6 +7,7 @@ project:
   render:
     - "index.qmd"
     - "RESUME.qmd"
+    - "publications.qmd"
 
 website:
   title: "My personal webpage"
@@ -16,6 +17,8 @@ website:
         text: "Home"
       - href: RESUME.qmd
         text: "CV"
+      - href: publications.qmd
+        text: "Publications"
   page-footer:
     border: true
     background: dark
