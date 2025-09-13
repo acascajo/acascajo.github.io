@@ -10,7 +10,7 @@ project:
     - "publications.qmd"
 
 website:
-  title: "My personal webpage"
+  title: "Alberto Cascajo"
   navbar:
     left:
       - href: index.qmd
