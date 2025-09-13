@@ -1,3 +1,141 @@
 # My publications 
 
-##
+## Journals
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Performance-aware scheduling of parallel applications on non-dedicated clusters”. 2019: 1 – 21. Electronics. DOI: https://doi.org/10.3390/electronics80909
+JCR 2019: 2,412 – Q2  in Engineering, Electrical & Electronic - Posición en el área: 125/266
+
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “LIMITLESS - LIght-weight MonItoring Tool for LargE Scale Systems”. 2022. Microprocesors and Microsystems. DOI: https://doi.org/10.1016/j.micpro.2022.104586
+JCR 2022: 3.503 – Q2  in Computer Science, Hardware and Architecture - Posición en el área: 19/54
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Detecting interference between applications and improving the scheduling using malleable application clones”. 2022. International Journal of High Performance Computing Applications. DOI: https://doi.org/10.1177/10943420231220898.
+JCR 2022: 3.100 – Q2  in Computer Science, Hardware and Architecture - Posición en el área: 24/54
+
+- Alberto Cascajo, Gabriel Gomez Lopez, Jesus Escudero Sahuquillo, Pedro Javier García, David E. Singh, Francisco Alfaro-Cortes,  Francisco J. Quiles, Jesús Carretero. “Monitoring InfiniBand networks to react efficiently to congestion”. 2023. IEEE Micro. DOI: 10.1109/MM.2023.3241840
+JCR 2022: 3,600 – Q2 in Computer Science, Hardware and Architecture - Posición en el área: 21/54
+
+- Miguel Guzmán, Maria Cristina Marinescu, Alberto Cascajo, Jesús Carretero, David E. Singh. “Evaluating the spread of Omicron COVID-19 variant in Spain”. 2023. Future Generation Computer Systems. DOI: 10.1016/j.future.2023.07.025
+JCR 2022: 7,100 – Q1 in Computer Science, Theory and Methods - Posición en el área: 10/111
+
+- Ahmad Tarraf, Martin Schreiber, Alberto Cascajo, Jean-Baptiste Besnard, Marc-André Vef, Dominik Huber, Sonja Happ, Andre Brinkmann, David E. Singh, Hans-Christian Hoppe, Alberto Miranda, Antonio Peña, Rui Machado, Marta Garcia-Gasulla, Martin Schultz, Paul M. Carpenter, Simon Pickartz, Tiberiu Rotaru, Sergio Iserte, Victor Lopez, Jorge Ejarque, Heena Sirwani, Jesus Carretero, Felix Wolf. “Malleability in Modern HPC Systems: Current Experiences, Challenges, and Future Opportunities”. 2023. IEEE Transactions on Parallel and Distributed Systems. DOI: https://doi.org/10.1109/TPDS.2024.3406764
+JCR 2022: 5,300 – Q1 in Computer Science, Theory and Methods - Posición en el área: 18/111
+
+- Katharine Sherratt, Ajitesh Srivastava, Kylie Ainslie, David E. Singh, Aymar Cublier, Maria-Cristina 
+Marinescu, Jesus Carretero, Alberto Cascajo, Nicolas Franco, Lander Willem, Steven Abrams, 
+Christel Faes, Philippe Beutels, Niel Hens, Sebastian Müller, Billy Charlton, Ricardo Ewert, Sydney Paltra, 
+Christian Rakow, Jakob Rehmann, TimConrad, Christof Schütte, Kai Nagel, Rok Grah, Rene Niehus, Bastian Prasse, Frank Sandmann, Sebastian Funk. “Characterising information loss due to aggregating epidemic model outputs”. 2024. Epidemics. DOI: https://doi.org/10.1016/j.epidem.2024.100765 
+JCR 2023: 3.800 – Q3 in Infectious Deseases - Posición en el área: 49/96
+
+- Aymar Cublier, Diana Gomez-Barroso, Concepción Delgado-Sanz, Susana María Monge, Alberto Cascahi, Maria-Cristina Marinescu, Amparo Larrauri, Jesus Carretero, David E. Singh. “Estimación de la incidencia real de la COVID-19 en España”. 2024. Revista Española de comunicación en salud. DOI: 10.20318/recs.2024.7970
+
+
+
+##	Proceedings / Book chapters:
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “LIMITLESS - LIght-weight MonItoring Tool for LargE Scale Systems”. 2021. 29th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP 2021). CORE2021: C. ISBN: 978-1-6654-1455-5. DOI: 10.1109/PDP52278.2021.00042
+
+- Andrés Bustos, Alberto Cascajo, Antonio Juan Rubio, J. Navarro, J. A. Moriñigo, Jesús Carretero, David E. Singh, Rafael Mayo. “Energy Consumption Studies of WRF Executions with the LIMITLESS Monitor”. 2022. In Latin American High Performance Computing Conference (CARLA 2021). DOI: 10.1007/978-3-031-04209-6_2
+
+- Alberto Cascajo, Gabriel Gomez Lopez, Jesus Escudero Sahuquillo, Pedro Javier García, David E. Singh, Francisco Alfaro-Cortes,  Francisco J. Quiles, Jesús Carretero. “Improving Congestion Control through Fine-Grain Monitoring of InfiniBand Networks”. 2022. In IEEE Symposium on High-Performance Interconnects (HOTI 2022). LiveSHINE: A-. Microsoft Academic: A-. DOI: 10.1109/HOTI55740.2022.00020 
+
+- Jesús Carretero, David E. Singh, Alberto Cascajo, Raffaele Montella. “Malleability Techniques for HPC Systems”. 2023. International Conference on Parallel Processing and Applied Mathematics (PPAM 2023), 77-88. CORE2023: C. DOI: 10.1007/978-3-031-30445-3_7  
+
+- Jean-Baptiste Besnard, Ahmad Tarraf, Clément Barthélemy, Alberto Cascajo, Emmanuel Jeannot, Sameer Shende, Felix Wolf. “Towards Smarter Schedulers: Molding Jobs into the Right Shape via Monitoring and Modeling”. 2023. ISC High Performance 2023: High Performance Computing. CORE2023: C. DOI: https://doi.org/10.1007/978-3-031-40843-4_6  
+
+- Alberto Cascajo, Álvaro Arbe, Francisco Javier Garcia Blas, Jesús Carretero. “Malleable Techniques and Resource Scheduling to Improve Energy Efficiency in Parallel Applications”. 2023. ISC High Performance 2023: High Performance Computing. CORE2023: C. DOI: 10.1007/978-3-031-40843-4_2  
+
+- David E. Singh, Álvaro Arbe, Jesús Carretero, Alberto Cascajo. “Energy-aware malleable scheduling techniques”. 2023. 31st Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2023). CORE2023: C. ISBN: 979-8-3503-3763-1
+
+- Javier Fernández Muñoz, Alberto Cascajo, Jesús Carretero. “Dynamic Management of Processes and Communicators in Malleable MPI Applications”. 2024. 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS). CORE2023: B. DOI: 10.1109/ICPADS60453.2023.00127.
+
+
+##	Workshops and Conferences: 
+
+- Alberto Cascajo. “Adaptive scheduling of HPC applications using malleability and dynamic migration”. 2019. In 14th Scheduling for Large Scale Systems Workshop. Bordeaux. France. 
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Framework escalable para monitorización y planificación de aplicaciones paralelas”. 2019. In Jornadas SARTECO 2019. Handle: http://hdl.handle.net/10662/9626 
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “LIMITLESS: Planificación basada en monitorización”. 2021. In Jornadas SARTECO 2021. ISBN: 978-84-09-32487-3
+
+- Andrés Bustos, Alberto Cascajo, Antonio Juan Rubio, J. Navarro, J. A. Moriñigo, Jesús Carretero, David E. Singh, Rafael Mayo. “Estudio de consumo energético de las simulaciones climáticas con WRF usando LIMITLESS.”. 2021. In Jornadas SARTECO 2021. ISBN: 978-84-09-32487-3
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Planificación de grano fino basada en monitorización de dispositivos en tiempo cuasi-real”. 2021. In Jornadas SARTECO 2021. ISBN: 978-84-09-32487-3
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Utilización de proxies maleables para detectar interferencia y mejorar la planificación de aplicaciones”. 2022. In Jornadas SARTECO 2022. Link de acceso: Proc_Jornadas_Sarteco_Alicante2022
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Detecting Interference Between Applications and Improving the Scheduling Using Malleable Application Proxies”. 2023. In 1st HPCMALL – ISC High Performance 2022 International Workshops. DOI: 10.1007/978-3-031-23220-6_9
+
+- Alberto Cascajo, Álvaro Arbe, Francisco Javier García Blas, Jesús Carretero, David E. Singh. “Malleable techniques and resource scheduling to improve energy efficiency in parallel applications”. 2023. In 2nd HPCMALL – ISC High Performance 2022 International Workshops. 
+
+- Javier Fernández Muñoz, Alberto Cascajo, Jesús Carretero. “Gestión dinámica de procesos y comunicadores en aplicaciones MPI maleables”. 2023. In Jornadas SARTECO 2023. Status: Published.
+
+- Alberto Cascajo, David E. Singh, Jesús Carretero. “Entorno de monitorización y reconfiguración dinámica del DVFS para ahorro de energía”. 2023. In Jornadas SARTECO 2023. Status: Published.
+
+- Alberto Cascajo, Gabriel Gomez Lopez, Jesús Escudero Sahuquillo, Pedro Javier García, David E. Singh, Francisco Alfaro-Cortes, Francisco J. Quiles, Jesús Carretero. “Monitorización de redes InfiniBand para reaccionar eficazmente a la congestión”. 2023. In Jornadas SARTECO 2023. Status: Published.
+	
+- Alberto Cascajo, Gabriel Gomez Lopez, Jesús Escudero Sahuquillo, Pedro Javier García, David E. Singh, Francisco Alfaro-Cortes, Francisco J. Quiles, Jesús Carretero. “Monitorización de redes InfiniBand para reaccionar eficazmente a la congestión”. 2023. In Jornadas SARTECO 2023. Status: Accepted.
+	
+- Javier Fernández Muñoz, Alberto Cascajo García, Jesús Carretero Pérez. “Gestión dinámica de procesos y comunicadores en aplicaciones MPI malleables”. 2024. In Jornadas SARTECO 2024. Status: Publication pending.
+
+- Jean-Baptiste Besnard, Ahmad Tarraf, Alberto Cascajo, Sameer Shende. “Introducing the Metric Proxy for Holistic I/O Measurements”. 2024. In HPC I/O in the Data Center Workshop (HPC-IODC). Status: Publication pending.
+	
+- Alberto Cascajo, Javier Fernández Muñoz, Jesús Carretero. “Micro-benchmarks ajustables para entornos maleables y dinámicos”. 2025. In Jornadas SARTECO 2025. Status: Accepted.
+	
+
+##	Presentations:
+
+- Alberto Cascajo. “The FlexMPI Malleability Framework”. 2023. In EuroHPC JU Projects Shaping Europe's HPC Landscape at HIPEAC 2023. 
+	
+- Alberto Cascajo, Javier Fernández Muñoz, Jesús Carretero, Raffaele Montella. “TUTORIAL - FlexMPI: Malleability Techniques and Applications in High-Performance Computing (E4 & ADMIRE)”. 2023. In 31st Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2023). 
+	
+
+##	Posters:
+
+- Jesús Carretero, Alberto Cascajo. “ADMIRE - Malleability solutions for HPC”. 2023. In HiPEAC 2023. 
+- Simone Pernice, Ahmad Tarraf, J.B. Besnard, Barbara Cantalupo, A. Cascajo, David E. Singh, Felix Wolf, Sameer Shende, Jesus Carretero, Marco  Aldinucci. "A Simulation-Based Framework to Reduce I/O Contention in HPC". 2025. In IPDPS 2025.
+	
+
+##	Event organizations:
+
+- 20th European MPI Users's Group Meeting (EuroMPI 2013)
+Main organizers: Jack J. Dongarra, Javier García Blas, Jesús Carretero.
+Date: 15/09/2013 – 18/09/2023
+Place: Madrid, España
+Participation: Gestión de asistentes y soporte técnico durante la conferencia. 
+	
+
+- 18th Workshop on Workflows in Support of Large-Scale Science (WORKS 2023)
+Main organizers: Silvina Caino-Lores, Anirban Mandal.
+Date: 12/11/2023 – 13/11/2023
+Place: Denver, Colorado, USA
+Participation: Program Committee member. 
+	
+
+- 30th International European Conference on Parallel and Distributed Computing (Euro-Par 2024)
+Main organizers: Jesús Carretero, Sameer Shende.
+Date: 26/08/2024 – 30/08/2024
+Place: Madrid, España
+Participation: Organización del evento y manejo de la página web. 
+
+
+- 19th Workshop on Workflows in Support of Large-Scale Science (WORKS 2024)
+Main organizers: Silvina Caino-Lores, Anirban Mandal.
+Date: 18/11/2024 – 19/11/2024
+Place: Atlanta, GA, USA
+Participation: Program Committee member. 
+
+
+- 20th Workshop on Workflows in Support of Large-Scale Science (WORKS 2025)
+Main organizers: Silvina Caino-Lores, Anirban Mandal.
+Date: 17/11/2024 – 18/11/2024
+Place: St. Louis, MO, USA
+Participation: Program Committee member. 
+
+
+- 3rd International Workshop on Malleability Techniques Applications in High-Performance Computing (HPCMALL2026)
+Main organizers: Jesús Carretero, Martin Schulz, Estela Suarez.
+Date: 26/01/2026 – 29/01/2026
+Place: Osaka, Japan
+Participation: Program Committee member. 
+	
