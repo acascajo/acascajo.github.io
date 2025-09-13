@@ -9,7 +9,7 @@ project:
     - "RESUME.qmd"
 
 website:
-  title: "Mi Página Personal"
+  title: "My personal webpage"
   navbar:
     left:
       - href: index.qmd
