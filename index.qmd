@@ -1,6 +1,5 @@
----
-title: "Alberto Cascajo - My Bio"
----
+::: {.row}
+::: {.col-md-8}
 
 # Hello!
 
@@ -12,3 +11,26 @@ Initially, my research was focused on the development of railway construction si
 
 
 👉 You can also see my [CV](RESUME.html).
+
+
+:::
+
+::: {.col-md-4 .text-center}
+
+![Photo](image.png){.img-fluid .rounded-circle width="200px"}
+
+**Contacto**  
+📧 [acascajo@inf.uc3m.es](mailto:acascajo@inf.uc3m.es)  
+💼 [LinkedIn](https://www.linkedin.com/in/albertocascajosofteng/)  
+🐙 [GitHub](https://github.com/acascajo)
+
+:::
+:::
+
+
+
+
+
+
+
+
