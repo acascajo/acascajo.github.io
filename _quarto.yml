@@ -1,5 +1,3 @@
-profile:
-  default: development
 project:
   type: website
   pre-render:
@@ -7,14 +5,24 @@ project:
   post-render:
     - ./post-render.py
   render:
+    - "index.qmd"
     - "RESUME.md"
+
 website:
+  title: "Mi Página Personal"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Inicio"
+      - href: RESUME.qmd
+        text: "CV"
   page-footer:
     border: true
     background: dark
     center: 
       - text: "<b>Download PDF</b>"
         href: /index.pdf
+
 format-links: false
 format:
   html:
@@ -23,8 +31,7 @@ format:
     link-external-newwindow: true
     canonical-url: true
   pdf: default
+
 resources:
   - CNAME
-
-
 
