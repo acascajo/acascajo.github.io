@@ -65,46 +65,57 @@ Thesis title (en): Optimization of structural calculation applications and autom
 
 ### MADE: Multiple Access to eDElivery
 *Jan 2017 - Dec 2018*
+
 Participation: Member of the working group
 
 ### eID@Cloud: Integrating de eIdentification in European cloud Platform according to the EIDAs Regulation
 *May 2017 - Sep 2018*
+
 Participation: Member of the working group
 
 ### ADMIRE: Adaptive multi-tier intelligent data manager for Exascale
 *Apr 2021 - Mar 2024*
+
 Participation: Member of the working group
 
 ### Servicio para el desarrollo de una herramienta de predicción de escenarios epidemiológicos y de vacunación frente a COVID-19
 *Aug 2021 - Nov 2021*
+
 Participation: Member of the working group
 
 ### eID4Spain: Connecting Regional and Local Administrations to Spanish eIDAS Node
 *Sep 2018 - Feb 2020*
+
 Participation: Member of the working group
 
 ### SIRTE: Simulación de la Interacción y Replanteo de Trazados Electrificados y Pórticos y Agujas
 *Feb 2010 - Dec 2013*
+
 Participation: Internship
 
 ### Estudio y realización de programas de cálculo de pórticos rígidos de catenaria (CALPOR) y de Sistemas de simulación de montaje de agujas aéreas de línea aérea de contacto (SIA)
 *Feb 2007 - Jan 2011*
+
 Participation: Internship
 
 ### Mantenimiento del programa: Sistema de análisis y cálculo de suministro de energía
 *Apr 2021 - Dec 2021*
+
 Participation: Member of the working group
 
 ### Nuevos métodos en High-end y Edge Computing para la computación intensiva en datos
 *Jun 2020 - Feb 2024*
+
 Participation: Member of the working group
 
 ### Hacia la unificación de paradigmas HPC y Big Data
 *Dec 2016 - May 2020*
+
 Participation: Member of the working group
 
 ### Projects of the Spanish Supercomputing Network (Red Española de Supercomputación - RES)
 *Jul 2021 - Nov 2023*
+
 Participation: Member of the working group
 
 - BCV-2021-2-0011 - Evaluation of COVID19 mitigation and vaccination strategies.
@@ -119,6 +130,7 @@ Participation: Member of the working group
 
 ### Technical Reports elaboration – European Centre for Disease Prevention and Control (ECDC)
 *Dec 2021 - Jan 2022*
+
 Participation: Member of the working group
 
 - European Covid-19 Forecast Hub. Duración: del 1/12/2021 a la actualidad.
@@ -126,10 +138,12 @@ Participation: Member of the working group
 
 ### Nuevas técnicas escalables de E/S para cargas de trabajo híbridas de HPC e intensivas en datos. 
 *Sep 2023 - Aug 2026*
+
 Participation: Member of the working group
 
 ### Monitorización y Evaluación en Tiempo Real de Infraestructuras Cloud y HPC mediante IA - METRIC-AI
 *Jan 2025 - Dec 2025*
+
 Participation: IP - Main researcher
 
 ## Languages
