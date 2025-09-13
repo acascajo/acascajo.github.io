@@ -6,7 +6,7 @@ project:
     - ./post-render.py
   render:
     - "index.qmd"
-    - "RESUME.md"
+    - "RESUME.qmd"
 
 website:
   title: "Mi Página Personal"
