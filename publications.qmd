@@ -1,5 +1,7 @@
 # My publications 
 
+::: {.justify}
+
 ## Journals
 
 - Alberto Cascajo, David E. Singh, Jesús Carretero. “Performance-aware scheduling of parallel applications on non-dedicated clusters”. 2019: 1 – 21. Electronics. DOI: https://doi.org/10.3390/electronics80909
@@ -138,4 +140,6 @@ Main organizers: Jesús Carretero, Martin Schulz, Estela Suarez.
 Date: 26/01/2026 – 29/01/2026
 Place: Osaka, Japan
 Participation: Program Committee member. 
+
+:::
 	
