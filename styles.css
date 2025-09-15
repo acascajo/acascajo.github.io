@@ -59,3 +59,12 @@ img.rounded-circle {
   display: block;
   margin: 0.25rem 0;
 }
+
+/* Inline mode : justify */
+.justify {
+  text-align: justify;
+}
+/* Inline mode : center */
+.center {
+  text-align: center;
+}

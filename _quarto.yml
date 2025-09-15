@@ -7,21 +7,28 @@ project:
   render:
     - "index.qmd"
     - "RESUME.qmd"
+    - "publications.qmd"
 
 website:
-  title: "My personal webpage"
+  title: "Alberto Cascajo"
   navbar:
     left:
       - href: index.qmd
         text: "Home"
       - href: RESUME.qmd
         text: "CV"
+      - href: publications.qmd
+        text: "Publications"
   page-footer:
     border: true
     background: dark
     center: 
-      - text: "<b>Download PDF</b>"
+      - text: "<b>Download presentation</b>"
         href: /index.pdf
+      - text: "<b>Download CV</b>"
+        href: /RESUME.pdf
+      - text: "<b>Download Publications</b>"
+        href: /publications.pdf
 
 format-links: false
 format:
