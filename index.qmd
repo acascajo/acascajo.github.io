@@ -3,7 +3,7 @@
 
 # Hello!
 
-::: {.justify}
+::: {.text-center}
 I am Alberto Cascajo, a post-doctoral researcher in University Carlos III of Madrid.
 
 I received the PhD degree in Computer Science and Technology at the Carlos III University of Madrid in 2021. He completed a Bachelor’s Degree in Computer Science and a Master’s Degree in Computer Science and Technology at the same university, being part of the ARCOS research group since 2013.
@@ -20,12 +20,10 @@ You can also see my [CV](RESUME.html).
 
 ![Photo](image.png){.img-fluid .rounded-circle width="200px"}
 
-::: {.center}
 **Contacto**  
 📧 [acascajo@inf.uc3m.es](mailto:acascajo@inf.uc3m.es)  
 💼 [LinkedIn](https://www.linkedin.com/in/albertocascajosofteng/)  
 🐙 [GitHub](https://github.com/acascajo)
-:::
 :::
 :::
 
