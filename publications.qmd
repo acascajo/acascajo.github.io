@@ -83,6 +83,8 @@ JCR 2023: 3.800 – Q3 in Infectious Deseases - Posición en el área: 49/96
 - Jean-Baptiste Besnard, Ahmad Tarraf, Alberto Cascajo, Sameer Shende. “Introducing the Metric Proxy for Holistic I/O Measurements”. 2024. In HPC I/O in the Data Center Workshop (HPC-IODC). Status: Publication pending.
 	
 - Alberto Cascajo, Javier Fernández Muñoz, Jesús Carretero. “Micro-benchmarks ajustables para entornos maleables y dinámicos”. 2025. In Jornadas SARTECO 2025. Status: Accepted.
+
+- S. Pernice, A. Tarraf, J.B. Besnard, B. Cantalupo, A. Cascajo, D. E. Singh, F. Wolf, J. Carretero, S. Shende, M. Aldinuchi. "A Simulation-Based Framework to Reduce I/O Contention in HPC," 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Milano, Italy, 2025, pp. 1258-1260, doi: 10.1109/IPDPSW66978.2025.00204.	
 	
 
 ##	Presentations:
